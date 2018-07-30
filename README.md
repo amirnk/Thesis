@@ -1,2 +1,2 @@
-# master_thesis
-Master thesis codes
+Thesis codes
+NTNU university
