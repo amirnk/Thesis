@@ -12,9 +12,7 @@ first shows the catchment shape and the snow course line position and its length
 lines and shows the center of cells with dots, if it doesn’t include some snow course line points it is a red dot
 and if it includes some, it is black and shows its boundary. All latter cells include cell No., the number of snow
 course line points, average, maximum, minimum, standard division, the elevation gradient and the orientation slope with
-an arrow, the SWE of that cells and its accuracy. The third illustration is the SWE histogram of the snow course line
-and the SWE of passed cells. Finally, write all this values in a CSV file. The Python code is in following as well
-as three illustrations.
+an arrow, the SWE of that cells and its accuracy.
 '''
 
 import pandas as pd
